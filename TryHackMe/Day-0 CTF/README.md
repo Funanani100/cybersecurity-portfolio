@@ -1,4 +1,4 @@
-# Windows Memory Forensics — Portfolio Case Study
+# Windows Memory Forensics - Portfolio Case Study
 
 > **Non-spoiler portfolio summary** · TryHackMe training exercise: **Day-O**  
 > This document records the skills and analysis approach practised in the lab. Challenge-specific answers, indicators, commands, recovered secrets, and the flag are intentionally omitted while the room is treated as active.
@@ -13,7 +13,7 @@ The goal was to practise evidence-led analysis of a preserved memory image: esta
 
 ## Lab scope
 
-- **Platform:** TryHackMe — Day-O
+- **Platform:** TryHackMe - Day-O
 - **Category:** Memory forensics / malware analysis
 - **Difficulty:** Medium
 - **Environment:** Supplied Windows memory image analysed from a Linux analysis workstation
