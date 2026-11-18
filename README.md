@@ -1,5 +1,11 @@
 # Cybersecurity Portfolio
 
+<p align="center">
+  <img src="assets/banner_portfolio.png"
+       alt="Cybersecurity Portfolio Banner"
+       width="100%">
+</p>
+
 A collection of practical cybersecurity lab write-ups documenting the investigation process, technical evidence, findings, and remediation recommendations from authorised training environments.
 
 The goal of this portfolio is to demonstrate a repeatable security-testing approach—not simply to collect challenge flags.
