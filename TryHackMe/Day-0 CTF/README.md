@@ -1,4 +1,4 @@
-# Windows Memory Forensics - Portfolio Case Study
+# Windows Memory Forensics - Case Study
 
 > **Non-spoiler portfolio summary** · TryHackMe training exercise: **Day-O**  
 > This document records the skills and analysis approach practised in the lab. Challenge-specific answers, indicators, commands, recovered secrets, and the flag are intentionally omitted while the room is treated as active.
