@@ -16,6 +16,8 @@ The goal of this portfolio is to demonstrate a repeatable security-testing appro
 |---|---|---|---|---|
 | TryHackMe | CyberHeros | Network enumeration, web source inspection, client-side authentication | Completed | [Read the write-up](TryHackMe/CyberHeros/README.md) |
 | TryHackMe | Guided-Pentest-Infrastructure | Infrastructure penetration testing, service exploitation, privilege escalation(IRC backdoor) | Completed | [Read the write-up](TryHackMe/Guided-Pentest-Infrastructure/README.md) |
+| TryHackMe | Day-0 | Windows memory-forensics investigation / Malware analysis | Completed | [Read the write-up](TryHackMe/Day-0%20CTF/README.md) |
+
 
 ## Methodology used in these reports
 
