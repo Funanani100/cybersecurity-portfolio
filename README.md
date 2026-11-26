@@ -17,8 +17,9 @@ The goal of this portfolio is to demonstrate a repeatable security-testing appro
 | TryHackMe | CyberHeros | Network enumeration, web source inspection, client-side authentication | Completed | [Read the write-up](TryHackMe/CyberHeros/README.md) |
 | TryHackMe | Guided-Pentest-Infrastructure | Infrastructure penetration testing, service exploitation, privilege escalation(IRC backdoor) | Completed | [Read the write-up](TryHackMe/Guided-Pentest-Infrastructure/README.md) |
 | TryHackMe | Day-0 | Windows memory-forensics investigation / Malware analysis | Completed | [Read the write-up](TryHackMe/Day-0%20CTF/README.md) |
+| TryHackMe | Strange-and-Unusual-Activity | Network Forensics / Threat Hunting / Malware analysis | Completed | [Read the write-up](TryHackMe/Strange-and-Unusual-Activity/README.md) |
 
-
+Strange-and-Unusual-Activity
 ## Methodology used in these reports
 
 1. **Scope and context** — identify the authorised target and relevant constraints.
